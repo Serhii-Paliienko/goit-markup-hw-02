@@ -94,3 +94,12 @@ h2 {
 ul {
     list-style-type: none;
 }
+
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+footer .studio {
+    color: #F4F4FD;
+}
