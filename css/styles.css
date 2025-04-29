@@ -19,13 +19,13 @@ body {
   color: #4d5ae5;
 }
 
-.address {
+address {
   text-decoration: none;
   font-style: normal;
   color: #434455;
 }
 
-.address:hover {
+address:hover {
   color: #404bbf;
 }
 
