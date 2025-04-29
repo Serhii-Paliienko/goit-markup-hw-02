@@ -30,11 +30,11 @@ body {
   letter-spacing: 0.02em;
 }
 
-.site-nav .nav:hover {
+.nav:hover {
   color: #404bbf;
 }
 
-.site-nav .nav:focus {
+.nav:focus {
   color: #404bbf;
   text-decoration: underline;
 }
