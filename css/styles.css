@@ -29,18 +29,18 @@ address {
   color: #404bbf;
 }
 
-.nav {
+.site-nav a {
   text-decoration: none;
   font-weight: 500;
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
 
-.nav:hover {
+.site-nav .nav:hover {
   color: #404bbf;
 }
 
-.nav:focus {
+.site-nav .nav:focus {
   color: #404bbf;
   text-decoration: underline;
 }
