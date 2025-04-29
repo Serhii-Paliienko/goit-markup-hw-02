@@ -12,7 +12,11 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
-  font-weight: 400;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
 }
 
 .address {
@@ -38,10 +42,6 @@ body {
 .nav:active {
   color: #404bbf;
   text-decoration: underline;
-}
-
-.web {
-  color: #4d5ae5;
 }
 
 .studio {
