@@ -33,6 +33,7 @@ body {
   text-decoration: none;
   font-weight: 500;
   color: #2e2f42;
+  letter-spacing: 0.02em;
 }
 
 .nav:hover {
