@@ -36,11 +36,11 @@ body {
   letter-spacing: 0.02em;
 }
 
-a .nav:hover {
+.nav:hover {
   color: #404bbf;
 }
 
-.nav:active {
+.nav:focus {
   color: #404bbf;
   text-decoration: underline;
 }
