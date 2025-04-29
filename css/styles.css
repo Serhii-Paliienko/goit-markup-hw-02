@@ -12,7 +12,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
-  font font-weight: 400;
+  font-weight: 400;
 }
 
 .address {
@@ -22,7 +22,7 @@ body {
 }
 
 .address:hover {
-    color: #404BBF;
+  color: #404bbf;
 }
 
 .nav {
@@ -32,12 +32,12 @@ body {
 }
 
 .nav:hover {
-    color: #404BBF;
+  color: #404bbf;
 }
 
 .nav:active {
-    color: #404BBF;
-    text-decoration: underline;
+  color: #404bbf;
+  text-decoration: underline;
 }
 
 .web {
@@ -68,7 +68,7 @@ body {
 }
 
 .button:hover {
-    background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 h3 {
@@ -83,23 +83,23 @@ h2 {
 }
 
 .feautures {
-    opacity: 0;
+  opacity: 0;
 }
 
 .team {
-    background-color: #F4F4FD;
-    text-align: center;
+  background-color: #f4f4fd;
+  text-align: center;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 footer {
-    background-color: #2E2F42;
-    color: #F4F4FD;
+  background-color: #2e2f42;
+  color: #f4f4fd;
 }
 
 footer .studio {
-    color: #F4F4FD;
+  color: #f4f4fd;
 }
